@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+/* ─── Custom CSS Variables (Tailwind v4 theme) ─── */
+@theme {
+  --color-background: #0b0a0c;
+  --color-foreground: #f0ede8;
+  --color-card: #1a181c;
+  --color-border: #2a282c;
+  --color-muted-foreground: #9b99a0;
+  --color-accent-blue: #7eb8e0;
+  --color-accent-emerald: #6bc4a8;
+  --color-accent-purple: #b89ad6;
+  --font-family-bagel: "Bagel Fat One", serif;
+  --font-weight-bagel: 400;
+}
+
+/* ─── Base Styles ─── */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-background);
+  color: var(--color-foreground);
+  font-family: system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ─── Tailwind v4 utilities ─── */
+@utility container {
+  max-width: 1280px;
+  margin-inline: auto;
+}

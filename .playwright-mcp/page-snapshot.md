@@ -1,0 +1,106 @@
+- generic [ref=e3]:
+  - generic [ref=e5]:
+    - button "中" [pressed] [ref=e7]
+    - button "EN" [ref=e8]
+  - generic [ref=e9]:
+    - img "资中杖头木偶" [ref=e11]
+    - generic [ref=e16]:
+      - generic [ref=e19]: 国家级非物质文化遗产 · 四川资中
+      - heading "资中木偶 ZIZHONG PUPPETRY" [level=1] [ref=e20]:
+        - text: 资中木偶
+        - generic [ref=e21]: ZIZHONG PUPPETRY
+      - paragraph [ref=e22]: 百年杖头，一线牵动古今。源自沱江之滨的资中木偶戏，以中型杖头木偶为形、川剧五大声腔为韵，在艺人指掌之间，演尽千秋风云。
+      - generic [ref=e23]:
+        - link "溯源百年" [ref=e24] [cursor=pointer]:
+          - /url: "#heritage"
+        - link "观其匠艺" [ref=e25] [cursor=pointer]:
+          - /url: "#craft"
+    - generic [ref=e27]: 向下滚动 ↓
+  - generic [ref=e30]:
+    - generic [ref=e31]:
+      - generic [ref=e32]: 170+
+      - generic [ref=e33]: 传承年份
+    - generic [ref=e34]:
+      - generic [ref=e35]: "200"
+      - generic [ref=e36]: 传统剧目
+    - generic [ref=e37]:
+      - generic [ref=e38]: 40+
+      - generic [ref=e39]: 巡演国家
+    - generic [ref=e40]:
+      - generic [ref=e41]: 1.2m
+      - generic [ref=e42]: 木偶身高
+  - generic [ref=e45]:
+    - generic [ref=e46]:
+      - text: A Heritage Timeline
+      - heading "百年传承" [level=2] [ref=e47]
+    - generic [ref=e50]:
+      - generic [ref=e53]:
+        - generic [ref=e54]: 清·咸丰年间
+        - heading "源起资中" [level=3] [ref=e55]
+        - paragraph [ref=e56]: 杖头木偶随川剧戏班传入资中，扎根于沱江之畔的乡野庙会。
+      - generic [ref=e59]:
+        - generic [ref=e60]: 民国时期
+        - heading "名班林立" [level=3] [ref=e61]
+        - paragraph [ref=e62]: "\"金泰班\"\"万寿班\"等戏班走南闯北，把资中木偶带到川渝各地。"
+      - generic [ref=e65]:
+        - generic [ref=e66]: 1953 年
+        - heading "剧团成立" [level=3] [ref=e67]
+        - paragraph [ref=e68]: 资中木偶剧团组建，集中民间艺人，整理传统剧目近二百出。
+      - generic [ref=e71]:
+        - generic [ref=e72]: 2008 年
+        - heading "国家级非遗" [level=3] [ref=e73]
+        - paragraph [ref=e74]: 资中中型杖头木偶戏被列入国家级非物质文化遗产名录。
+      - generic [ref=e77]:
+        - generic [ref=e78]: 当代
+        - heading "走向世界" [level=3] [ref=e79]
+        - paragraph [ref=e80]: 远赴法国、德国、日本等四十余国巡演，被誉为"东方艺术瑰宝"。
+  - generic [ref=e82]:
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - text: The Craft
+        - heading "一木一神，一线一魂" [level=2] [ref=e85]
+        - paragraph [ref=e86]: 资中木偶以"中型杖头"为标志——偶高约一米二，既有大型木偶之气势，又具小型木偶之灵动。艺人立于幕后，左手执命杆，右手操签子，让木偶眨眼、张口、舞袖、挥剑，活灵活现。
+        - paragraph [ref=e87]: 偶头雕刻以樟木为材，经选料、开坯、雕刻、打磨、彩绘、装銮六道工序，方成一具传神偶身。
+      - generic [ref=e88]:
+        - img "木偶操纵" [ref=e90]
+        - generic [ref=e91]: 匠 · CRAFT
+    - generic [ref=e92]:
+      - generic [ref=e93]:
+        - generic [ref=e94]: 形
+        - heading "中型杖头" [level=3] [ref=e95]
+        - paragraph [ref=e96]: 木偶高约 1.2 米，介于大、小杖头之间，操纵灵巧又见气韵。
+      - generic [ref=e97]:
+        - generic [ref=e98]: 艺
+        - heading "人偶同台" [level=3] [ref=e99]
+        - paragraph [ref=e100]: 艺人执杖与木偶共舞，"以人带偶、以偶传情"。
+      - generic [ref=e101]:
+        - generic [ref=e102]: 腔
+        - heading "川剧声腔" [level=3] [ref=e103]
+        - paragraph [ref=e104]: 兼融高腔、胡琴、弹戏、灯调五大声腔，唱念做打俱全。
+      - generic [ref=e105]:
+        - generic [ref=e106]: 工
+        - heading "一木一神" [level=3] [ref=e107]
+        - paragraph [ref=e108]: 头胎雕刻、彩绘、装銮全凭手工，一具偶头需月余方成。
+  - generic [ref=e109]:
+    - img "戏台" [ref=e111]
+    - generic [ref=e114]:
+      - generic [ref=e115]:
+        - text: Signature Repertoire
+        - heading "经典剧目" [level=2] [ref=e116]
+      - generic [ref=e117]:
+        - generic [ref=e118]: 《请神》
+        - generic [ref=e119]: 《变脸吐火》
+        - generic [ref=e120]: 《钟馗嫁妹》
+        - generic [ref=e121]: 《人偶丑情》
+        - generic [ref=e122]: 《化蝶》
+        - generic [ref=e123]: 《白蛇传》
+        - generic [ref=e124]: 《满江红》
+        - generic [ref=e125]: 《哪吒闹海》
+        - generic [ref=e126]: 《三调芭蕉扇》
+      - paragraph [ref=e127]: "\"偶动天地动，戏开众生开。\""
+  - contentinfo [ref=e128]:
+    - generic [ref=e129]:
+      - generic [ref=e130]: 资中木偶
+      - generic [ref=e131]: © 资中木偶剧团 · 国家级非物质文化遗产
+      - link "返回首页" [ref=e132] [cursor=pointer]:
+        - /url: /
